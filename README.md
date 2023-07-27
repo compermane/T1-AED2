@@ -1,0 +1,2 @@
+Caso prefira rodar os testes automatizados, instale a biblioteca pytest e, no console, execute o comando "py -m pytest" caso esteja utilizando Windows ou "python -m pytest" caso esteja utilizando Linux.
+Caso contrario, as implementações da árvore AVL também são executaveis no arquivo em AVL/main.py, sendo necessario apenas a execução desse arquivo.
